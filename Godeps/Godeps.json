@@ -1,0 +1,13 @@
+{
+	"ImportPath": "github.com/rauwekost/env",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/rauwekost/as",
+			"Rev": "fbf287fc360b63a4b384f1dbc2a4c1977d9ce0af"
+		}
+	]
+}

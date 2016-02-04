@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rauwekost/as"
+	"github.com/rauwekost/env/Godeps/_workspace/src/github.com/rauwekost/as"
 )
 
 //Prefix sets a prefix + _
